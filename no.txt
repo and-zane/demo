@@ -1,6 +1,2 @@
-cordiali saluti da tutti noi
-
-
-
 probabilmente è il CASIO di cambriare contenuto del file, giusot per verificare il comportamento del branching
 
